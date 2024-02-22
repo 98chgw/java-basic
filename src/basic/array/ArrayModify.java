@@ -1,6 +1,6 @@
 package basic.array;
 
-public class EnhancedForLoop {
+class EnhancedForLoop {
 
     public static void main(String[] args) {
         /*
