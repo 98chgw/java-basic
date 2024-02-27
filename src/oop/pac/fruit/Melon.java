@@ -1,4 +1,4 @@
-package pac.fruit;
+package oop.pac.fruit;
 
 public class Melon {
 }

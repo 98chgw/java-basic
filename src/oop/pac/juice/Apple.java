@@ -1,4 +1,4 @@
-package pac.juice;
+package oop.pac.juice;
 
 public class Apple {
 
